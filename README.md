@@ -5,10 +5,14 @@
 
   ---
 ## DEMO:
-![README-gif](./assets/Walk-through-video-README.gif)
+![Software-team-gif](./assets/software-team-demo.gif)
+
+## Preview: 
+![Software-team-gif](./assets/software-team.png)
+
 
 ### Watch video step by step: 
-* 
+* https://drive.google.com/file/d/1cAIaPKA70cnBxvsifrf-oR_y1v04HAsk/view
 
 ---
   ## Table of Contents
