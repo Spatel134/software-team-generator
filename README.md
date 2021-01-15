@@ -26,6 +26,7 @@
 ---
 ## Installation
 Bring this repo to local machine. Run on Visual Studio Code and open a terminal. Once terminal is open, you will need to first update your package.json by running "npm init" and answering the following prompts that display in the terminal window. Once you are done, the package.json will be updated. Next step is to run "node install" in the terminal. Once that is installed, run "node app.js". Follow the prompts and start with the manager info. Then select next team member to build out the team. Once completed, you select "none" and the software team will generate base on the user input.  
+
 ---
 ## Usage
 This will help create a professional team in within minutes. 
