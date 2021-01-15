@@ -5,10 +5,10 @@
 
   ---
 ## DEMO:
-![Software-team-gif](./assets/software-team-demo.gif)
+![Software-team-gif](./Assets/software-team-demo.gif)
 
 ## Preview: 
-![Software-team-gif](./assets/software-team.png)
+![Software-team-gif](./Assets/software-team.png)
 
 
 ### Watch video step by step: 
@@ -64,6 +64,6 @@ If you have any questions about this app, email me or visit me on GitHub.
 [GitHub](http://github.com/spatel134)
 
 ---
-[Software-team](https://github.com/hmlauth/Employee-Team-Generator.git)! 
+[Software-team](https://github.com/Spatel134/software-team-generator.git)! 
 
  *Please use Google Chrome browser*
